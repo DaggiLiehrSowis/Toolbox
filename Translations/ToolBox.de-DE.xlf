@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="ToolBox.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4273236359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DimCorrections</source>
+          <target>Dimensionskorrektur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimCorrections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273236359 - Field 2623957639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Code</source>
+          <target>Dimensionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimCorrections - Field Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273236359 - Field 1468132285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Value</source>
+          <target>Dimensionswert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimCorrections - Field Dimension Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DimHistory</source>
+          <target>DimHistory</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 2623957639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Code</source>
+          <target>Dimensionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Dimensionssatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 1468132285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Value</source>
+          <target>Dimensionswert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Dimension Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 1792520506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No</source>
+          <target>Belegnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Document No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo</source>
+          <target>Lfd. Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 3123372377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No</source>
+          <target>Zeilennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Line No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2945675206 - Field 2465538441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No</source>
+          <target>Tabellennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DimHistory - Field Table No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JLECorrections</source>
+          <target>Projektposten Korrektur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1781343737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add.-Currency Line Amount</source>
+          <target>Zeilenbetrag zusätzl. Währung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Add.-Currency Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 154254646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add.-Currency Total Price</source>
+          <target>Verkaufsbetrag (BW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Add.-Currency Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1084863086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional-Currency Total Cost</source>
+          <target>Einstandsbetrag (BW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Additional-Currency Total Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2699875056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjusted</source>
+          <target>Reguliert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Adjusted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3258259516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amt. Posted to G/L</source>
+          <target>Aktiv. Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Amt. Posted to G/L - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3588828750 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amt. to Post to G/L</source>
+          <target>Betrag für Aktiv.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Amt. to Post to G/L - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3532935625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area</source>
+          <target>Bereich</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2814799924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Code</source>
+          <target>Lagerplatzcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Bin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1305645851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Area</source>
+          <target>Geschäftsbereich</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field BusinessArea - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <target>Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Währungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <target>Währungsfaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2725149570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Price Group</source>
+          <target>Debitorenpreisgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Customer Price Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1237517311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime Adjusted</source>
+          <target>Datum/Uhrzeit d. Regulierung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field DateTime Adjusted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Beschreibung 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <target>Dimensionssatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3086747513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Unit Cost (LCY)</source>
+          <target>EK-Preis (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Direct Unit Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Belegdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target>Belegnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Lfd. Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <target>Postenart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3814925297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry/Exit Point</source>
+          <target>Hafen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Entry/Exit Point - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4126785333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event Year</source>
+          <target>Geschäftsjahr</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field EventYear - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>Externe Belegnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 633819257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Bus. Posting Group</source>
+          <target>Geschäftsbuchungsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Gen. Bus. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2139693550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Prod. Posting Group</source>
+          <target>Produktbuchungsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Gen. Prod. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1303377601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 1 Code</source>
+          <target>Globaler Dimensionscode 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Global Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <target>Globaler Dimensionscode 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1908272084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job No.</source>
+          <target>Projektnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4185613972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Group</source>
+          <target>Buchungsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Job Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 561421623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Task No.</source>
+          <target>Projektaufgabennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Job Task No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target>Buch.-Blattname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3286668834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger Entry No.</source>
+          <target>Postennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2105177955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger Entry Type</source>
+          <target>Art des Postens</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Ledger Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3582421358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Zeilenbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3576043015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount (LCY)</source>
+          <target>Zeilenbetrag (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2702998682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount %</source>
+          <target>Zeilenrabatt %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Discount % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1206454073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount Amount</source>
+          <target>Zeilenrabattbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Discount Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2166229964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Discount Amount (LCY)</source>
+          <target>Zeilenrabattbetrag (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Discount Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <target>Zeilenart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target>Lagerortcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <target>Chargennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Nr.-Serie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1913655492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Total Cost</source>
+          <target>Urspr.-Einstandsbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Original Total Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 208683838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Total Cost (ACY)</source>
+          <target>Urspr.-Einstandsbetrag (BW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Original Total Cost (ACY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1924955009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Total Cost (LCY)</source>
+          <target>Urspr.-Einstandsbetrag (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Original Total Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3198040160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Unit Cost</source>
+          <target>Urspr.-Einstandspreis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Original Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3145808293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Unit Cost (LCY)</source>
+          <target>Urspr.-Einstandspreis (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Original Unit Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target>Paketnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2125241869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Service Shipment No.</source>
+          <target>Gebuchte Servicelieferungsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Posted Service Shipment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Buchungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 806193894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. per Unit of Measure</source>
+          <target>Menge pro Einheit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Qty. per Unit of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3179217921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity (Base)</source>
+          <target>Menge (Basis)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Quantity (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1908046867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Code</source>
+          <target>Ursachencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3063762278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Group No.</source>
+          <target>Res.-Gruppennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Resource Group No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 47037625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target>Seriennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 868423472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Order No.</source>
+          <target>Serviceauftragsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Service Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 781257514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 3 Code</source>
+          <target>Shortcutdimensionscode 3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2711388939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 4 Code</source>
+          <target>Shortcutdimensionscode 4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 405681708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 5 Code</source>
+          <target>Shortcutdimensionscode 5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4126842061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 6 Code</source>
+          <target>Shortcutdimensionscode 6</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2765633070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 7 Code</source>
+          <target>Shortcutdimensionscode 7</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 785667711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 8 Code</source>
+          <target>Shortcutdimensionscode 8</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2259420277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shpt. Method Code</source>
+          <target>Liefermethodencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Shpt. Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <target>Herkunftscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3996842083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost</source>
+          <target>Einstandsbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Total Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 4172042866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Cost (LCY)</source>
+          <target>Einstandsbetrag (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Total Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2812148497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price</source>
+          <target>Verkaufsbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3243911172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price (LCY)</source>
+          <target>Verkaufsbetrag (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Total Price (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1267997203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Specification</source>
+          <target>Verfahren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Transaction Specification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <target>Art des Geschäftes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3193866272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transport Method</source>
+          <target>Verkehrszweig</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Transport Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Typ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <target>Einstandspreis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 68186622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost (LCY)</source>
+          <target>Einstandspreis (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Unit Cost (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target>Einheitencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>VK-Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 1708449288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price (LCY)</source>
+          <target>VK-Preis (MW)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Unit Price (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>Benutzer-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant Code</source>
+          <target>Variantencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 881345490 - Field 3618073952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work Type Code</source>
+          <target>Arbeitstypencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table JLECorrections - Field Work Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4273236359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DimCorrections</source>
+          <target>Dimensionskorrektur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimCorrections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2945675206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DimHistory</source>
+          <target>DimHistory</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2945675206 - Action 270547942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete DIMS</source>
+          <target>Delete DIMS</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DimHistory - Action DeleteDIMS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS Extensions</source>
+          <target>MZS Extensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Method 1153431613 - NamedType 1769305828" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.%2</source>
+          <target>%1.%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Method GetVersionDisplayString - NamedType NoBuildVersionStringTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Method 1153431613 - NamedType 2335085503" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.%2.%3</source>
+          <target>%1.%2.%3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Method GetVersionDisplayString - NamedType NoRevisionVersionStringTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Method 1153431613 - NamedType 2332128904" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1.%2.%3.%4</source>
+          <target>%1.%2.%3.%4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Method GetVersionDisplayString - NamedType FullVersionStringTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Action 1301074822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export to Text</source>
+          <target>Export to Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Action Export to Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 589248234 - Action 176562519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target>Ansicht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Extensions - Action View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3800289317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS Job Planning Lines</source>
+          <target>MZS Projektplanzeilen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Job Planning Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2088157555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS Object Options</source>
+          <target>MZS Object Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Object Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2333194027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS Page Data Personalization</source>
+          <target>MZS Page Data Personalization</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS Page Data Personalization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2824282741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS User Personalization</source>
+          <target>MZS User Personalization</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZS User Personalization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1567756019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZSToolBox</source>
+          <target>MZS ToolBox</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZSToolBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1567756019 - Action 1738736609 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Job Fields</source>
+          <target>Clear Job Fields</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZSToolBox - Action ClearJobFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1567756019 - Action 2351168393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import JLEs</source>
+          <target>Import JLEs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MZSToolBox - Action KORRJLE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1972944454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeleteDims</source>
+          <target>DeleteDims</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DeleteDims - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1972944454 - NamedType 1080503310" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zeilen werden gelesen...\\#1##########\#2###########\#3###########</source>
+          <target>Zeilen werden gelesen...\\#1##########\#2###########\#3###########</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DeleteDims - NamedType DlgText</note>
+        </trans-unit>
+        <trans-unit id="Report 34096967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DelJLEs</source>
+          <target>DelJLEs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DelJLEs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3203176675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InsertJobLedgerEntry</source>
+          <target>InsertJobLedgerEntry</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report InsertJobLedgerEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2092900215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZS Delete Job Ledger Entries</source>
+          <target>MZS Projektposten löschen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MZS Delete Job Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 711384950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MZSDeleteJobPlanningLines</source>
+          <target>MZS Projektplanzeilen löschen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MZSDeleteJobPlanningLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1327406171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReadDims</source>
+          <target>ReadDims</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReadDims - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1327406171 - NamedType 1080503310" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zeilen werden gelesen...\\#1##########\#2###########\#3###########</source>
+          <target>Zeilen werden gelesen...\\#1##########\#2###########\#3###########</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ReadDims - NamedType DlgText</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1269087143 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Toolbox</source>
+          <target>ToolBox</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Toolbox - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
