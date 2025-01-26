@@ -53,6 +53,9 @@ page 85005 "MZS Job Planning Lines"
                 field("Line Amount"; Rec."Line Amount")
                 {
                 }
+                field("Ledger Entry Type"; Rec."Ledger Entry Type")
+                {
+                }
             }
         }
     }

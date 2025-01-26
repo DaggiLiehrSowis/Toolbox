@@ -1,8 +1,8 @@
 {
     "id": "95fbb0da-8f4a-4b3b-9d4b-6d8f172dba0c",
-    "name": "ToolBox",
+    "name": "MZS ToolBox",
     "publisher": "Messezentrum Salzburg",
-    "version": "24.1.7.0",
+    "version": "24.5.0.0",
     "brief": "",
     "description": "Toolbox für das MZS",
     "privacyStatement": "",
@@ -10,32 +10,7 @@
     "help": "",
     "url": "",
     "logo": ".resources/Bird.png",
-    "dependencies": [
-        {
-            "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
-            "name": "Continia Document Capture",
-            "publisher": "Continia Software",
-            "version": "11.0.0.0"
-        },
-        {
-            "id": "88cf5d4c-8afc-4a98-9cb7-212196c51d74",
-            "name": "Continia OPplus",
-            "publisher": "Continia Software",
-            "version": "21.0.0.0"
-        },
-        {
-            "id": "09d2ef0c-68aa-4ee8-81f6-49786a46a55d",
-            "name": "MZS Erweiterungen",
-            "publisher": "Messezentrum Salzburg",
-            "version": "21.0.0.0"
-          },          
-        {
-            "id": "a2243859-42ee-421b-9374-61504fd4e015",
-            "name": "MZS RUBIN Interface Add-On",
-            "publisher": "Messezentrum Salzburg",
-            "version": "21.0.0.0"
-        }
-    ],
+ 
     "screenshots": [],
     "platform": "1.0.0.0",
     "application": "21.0.0.0",

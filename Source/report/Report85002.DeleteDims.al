@@ -4,7 +4,7 @@ report 85002 DeleteDims
     Caption = 'DeleteDims';
     UsageCategory = Lists;
     ProcessingOnly = true;
-    Permissions =
+    Permissions = tabledata "Cust. Ledger Entry" = R,
         tabledata DimHistory = R,
         tabledata "Dimension Set Entry" = RIMD;
     dataset

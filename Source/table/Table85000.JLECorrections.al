@@ -465,14 +465,14 @@ table 85000 "JLECorrections"
             Caption = 'Package No.';
             CaptionClass = '6,1';
         }
-        field(80001; BusinessArea; enum MZSBusinessArea)
+        field(80001; BusinessArea; enum MZSTBBusinessArea)
         {
             Caption = 'Business Area';
         }
         field(80002; EventYear; Integer)
         {
             Caption = 'Event Year';
-        }        
+        }
 
     }
 
