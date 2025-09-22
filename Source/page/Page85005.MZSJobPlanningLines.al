@@ -41,6 +41,9 @@ page 85005 "MZS Job Planning Lines"
                 field("Unit Price"; Rec."Unit Price")
                 {
                 }
+                field("Qty. per Unit of Measure"; Rec."Qty. per Unit of Measure")
+                {
+                }
                 field("Total Price"; Rec."Total Price")
                 {
                 }

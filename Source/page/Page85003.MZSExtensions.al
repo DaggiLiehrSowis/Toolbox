@@ -3,7 +3,7 @@ page 85003 "MZS Extensions"
     PageType = List;
     ApplicationArea = All;
     SourceTable = "NAV App Installed App";
-    SourceTableView = sorting(Publisher);
+    SourceTableView = sorting(Publisher) where(Publisher = filter('<>Microsoft'));
     Caption = 'MZS Extensions';
     UsageCategory = Lists;
 
@@ -50,12 +50,13 @@ page 85003 "MZS Extensions"
                 Scope = Repeater;
             }
 
-            action("Export to Text")
+            action("ExportDependencies")
             {
-                Caption = 'Export to Text';
+                Caption = 'Export Dependencies';
                 ApplicationArea = All;
                 Promoted = true;
                 PromotedCategory = Process;
+                Image = Zones;
                 trigger OnAction()
                 var
                     NonMicrosoftExtensions: Record "NAV App Installed App";
@@ -67,12 +68,15 @@ page 85003 "MZS Extensions"
                     CRLF: Text[2];
                     ToFile: Text;
                     FirstItem: Boolean;
+                    ExportAll: Boolean;
+
                 begin
                     CRLF[1] := 13;
                     CRLF[2] := 10;
                     FirstItem := true;
-
-                    NonMicrosoftExtensions.SetFilter(Publisher, '<>%1', 'Microsoft');
+                    ExportAll := Confirm('Alle Erweiterungen exportieren? (Nein = nur <> Microsoft)', false);
+                    if not ExportAll then
+                        NonMicrosoftExtensions.SetFilter(Publisher, '<>%1', 'Microsoft');
 
                     TempBlob.CreateOutStream(OutStr);
                     OutStr.WriteText('    "dependencies": [' + CRLF);
@@ -101,16 +105,58 @@ page 85003 "MZS Extensions"
                     DownloadFromStream(InStr, '', '', FileName, ToFile);
                 end;
             }
+            action("Export2List")
+            {
+                Caption = 'Export 2 List';
+                ApplicationArea = All;
+                Promoted = true;
+                PromotedCategory = Process;
+                Image = Column;
+                trigger OnAction()
+                var
+                    NonMicrosoftExtensions: Record "NAV App Installed App";
+                    TempBlob: Codeunit "Temp Blob";
+                    OutStr: OutStream;
+                    InStr: InStream;
+                    FileName: Text;
+                    CRLF: Text[2];
+                    ToFile: Text;
+                    FirstItem: Boolean;
+                    ExportAll: Boolean;
+                begin
+                    CRLF[1] := 13;
+                    CRLF[2] := 10;
+                    FirstItem := true;
+
+                    ExportAll := Confirm('Alle Erweiterungen exportieren? (Nein = nur <> Microsoft)', false);
+                    if not ExportAll then
+                        NonMicrosoftExtensions.SetFilter(Publisher, '<>%1', 'Microsoft');
+
+                    TempBlob.CreateOutStream(OutStr);
+                    OutStr.WriteText('App ID;Name;Publisher;Version' + CRLF);
+
+                    if NonMicrosoftExtensions.FindSet() then
+                        repeat
+                            if not FirstItem then
+                                OutStr.WriteText(CRLF)
+                            else
+                                FirstItem := false;
+
+                            OutStr.WriteText(
+                                Format(NonMicrosoftExtensions."App ID") + ';' +
+                                NonMicrosoftExtensions.Name + ';' +
+                                NonMicrosoftExtensions.Publisher + ';' +
+                                Format(NonMicrosoftExtensions."Version Major"));
+                        until NonMicrosoftExtensions.Next() = 0;
+
+                    TempBlob.CreateInStream(InStr);
+                    FileName := 'ExtensionList.csv';
+                    ToFile := FileName;
+                    DownloadFromStream(InStr, '', '', FileName, ToFile);
+                end;
+            }
         }
     }
-
-
-
-    trigger OnOpenPage()
-    begin
-        Rec.SetFilter(Publisher, '<>Microsoft');
-    end;
-
     local procedure GetVersionDisplayString(PublishedApplication: Record "NAV App Installed App"): Text
     var
         NoBuildVersionStringTxt: Label '%1.%2';
